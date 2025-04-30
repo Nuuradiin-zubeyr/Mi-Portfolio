@@ -10,11 +10,10 @@ const info = {
 
     // ============ SOCIAL LINKS ============
     socials: {
-        // twitter: "https://x.com/cabdimaaliksm",
+        twitter: "https://x.com/nuradiinothman?s=21",
 		github: "https://github.com/Nuuradiin-zubeyr",
-		// linkedin: "https://www.linkedin.com/in/abdimalik-said-elmi-a6424534b/",
-		// instagram: "https://www.instagram.com/abdimalik.saed.elmi/",
-		// facebook: "",
+
+		facebook: "https://www.facebook.com/share/1AwHkLGFAu/?mibextid=wwXIfr",
     },
 
     // ============ PROJECTS ============
@@ -61,11 +60,33 @@ const info = {
 		},
 
 		{
+			title: "RealState Website",
+			description: "RentUp is a modern real estate platform designed to simplify the process of renting, buying, and listing properties. With a clean and user-friendly interface, RentUp connects property owners with potential tenants and buyers quickly and efficiently. The platform is committed to making real estate transactions easier, faster, and more reliable for everyone.",
+			technologies: ' Express.js, React, Node.js, Tailwind',
+			github: "https://github.com/Nuuradiin-zubeyr",
+            link: "https://real-state-liart.vercel.app/"
+		},
+		{
+			title: "News Portal",
+			description: "Discussion is a modern news portal dedicated to delivering accurate news and promoting open discussions on current events. With a user-friendly and engaging design, it provides readers with quick access to the latest updates while encouraging community interaction. Discussion aims to be a trusted source of information both locally and globally.",
+			technologies: ' Express.js, React, Node.js, Tailwind',
+			github: "https://github.com/Nuuradiin-zubeyr",
+            link: "https://news-website-silk-eta.vercel.app/"
+		},
+
+		{
 			title: "Burgarita Resturent",
 			description: "I built a responsive website for Burgarita Restaurant, featuring an easy-to-navigate menu, online ordering, and booking system. The site offers essential information like location, hours, and promotions, providing a seamless user experience on all devices.",
 			technologies: "React, Tailwind, TypeScript",
 			github: "https://github.com/Nuuradiin-zubeyr",
             link: "https://nuuradiin-zubeyr.github.io/Burgarita/"
+		},
+		{
+			title: "NetFelixClone",
+			description: "This platform delivers a Netflix-like streaming experience with easy access to movies, shows, and more.",
+			technologies: "React, Tailwind, TypeScript",
+			github: "https://github.com/Nuuradiin-zubeyr",
+            link: "https://net-flix-clone-peach.vercel.app/"
 		},
     ],
 
@@ -151,30 +172,7 @@ const info = {
 
     // ============ CERTIFICATES ============
     certificates: [
-        // {
-        //     title: "Responsive Web Design Certificate",
-        //     description: "Provided by FreeCodeCamp and Authorized by freeCodeCamp.org.",
-        //     icon: "freecodecamp",
-        //     link: "https://www.freecodecamp.org/certification/Abdimalik-Said-Elmi/responsive-web-design",
-        // },
-        // {
-        //     title: "JavaScript Algorithms and Data Structures Certificate",
-        //     description: "Provided by FreeCodeCamp and Authorized by freeCodeCamp.org.",
-        //     icon: "freecodecamp",
-        //     link: "https://www.freecodecamp.org/certification/Abdimalik-Said-Elmi/javascript-algorithms-and-data-structures-v8",
-        // },
-        // {
-        //     title: "Front End Development Libraries Certificate",
-        //     description: "Provided by FreeCodeCamp and Authorized by freeCodeCamp.org.",
-        //     icon: "freecodecamp",
-        //     link: "https://www.freecodecamp.org/certification/Abdimalik-Said-Elmi/front-end-development-libraries"
-        // },
-        // {
-        //     title: "Back End Development and APIs",
-        //     description: "Provided by FreeCodeCamp and Authorized by freeCodeCamp.org.",
-        //     icon: "freecodecamp",
-        //     link: "https://www.freecodecamp.org/certification/Abdimalik-Said-Elmi/back-end-development-and-apis"
-        // },
+
     ],
 
     // ============ CONTACT ============
