@@ -93,10 +93,10 @@ const info = {
     // ============ EDUCATION ============
     education: [
         {
-            school: "Jaziira University",
+            school: "City University",
             degree: "Bachelor of Science in Computer Science",
             duration: "2019 - 2022",
-            image: "Jaziira.png"
+            image: "city.jpg"
         },
         {
             school: "Rise Academy",
@@ -123,7 +123,7 @@ const info = {
         {
             position: "Mobile App",
             company: "Rehapco",
-            duration: " July 2023 - 2024",
+            duration: " July 2021 - ",
             image: "Rehapco.png",
             descriptions: [
                 "Developed and deployed various mobile applications for clients across different industries.",
@@ -147,7 +147,7 @@ const info = {
         {
             position: "Founder & CEO",
             company: "Nomz Tech",
-            duration: "July 2023 – 2024",
+            duration: "July 2023 ",
             image: "Nomz.png",
             descriptions: [
               "Founded and manage Nomz Tech, providing freelance web and mobile development services to various clients.",
@@ -160,9 +160,9 @@ const info = {
         
         {
             position: "Work Immersion - Web Developer",
-            company: "St. Peter Velle Technical Training Center",
-            duration: "Nov 2023 - Dec 2023 (1 Month)",
-            image: "ST.png",
+            company: "IriseHub",
+            duration: "October 2024-present ",
+            image: "irisehub.png",
             descriptions: [
                 "Developed Python scripts to automate document score calculations.",
                 "Developed a company website as part of an ICT-related work immersion program."

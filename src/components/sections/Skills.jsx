@@ -25,9 +25,13 @@ function Skills() {
           <IoLogoJavascript className="text-2xl" /> JavaScript
 
         </span>
-				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <BiLogoTypescript className="text-2xl" /> TypeScript
+        <span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
+          <IoLogoJavascript className="text-2xl" /> Python
+
         </span>
+				{/* <span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
+          <BiLogoTypescript className="text-2xl" /> TypeScript
+        </span> */}
 			
         <span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <FaReact className="text-2xl" /> React
